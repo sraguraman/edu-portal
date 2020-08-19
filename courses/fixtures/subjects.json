@@ -1,0 +1,34 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "English Literature",
+    "slug": "english-literature"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "title": "Computer Science",
+    "slug": "computer-science"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "title": "Philosophy",
+    "slug": "philosophy"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "title": "International Relations",
+    "slug": "international-relations"
+  }
+}
+]
