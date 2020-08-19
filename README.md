@@ -1,0 +1,1 @@
+Project to learn more about Django. Building out an education portal where instructors can add subjects, courses, course information. Contains authentication and multiple user profiles. 
